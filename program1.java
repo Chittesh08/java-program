@@ -2,7 +2,7 @@ class program1 {
   public static void main(String[] args) {
 
     int n = 10, firstTerm = 0, secondTerm = 1;
-    System.out.println("Fibonacci Series till " + n + " terms:");
+    System.out.println("Fibonacci Series till 01" + n + " terms:");
 
     for (int i = 1; i <= n; ++i) {
       System.out.print(firstTerm + ", ");
